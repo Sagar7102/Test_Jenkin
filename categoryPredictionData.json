@@ -1,0 +1,84 @@
+{
+  "categoryPredictionTestData" : {
+    "positiveData":[
+      {
+        "title" : "Micromax Phone"
+      },
+      {
+        "title" : "Iphone 6s"
+      },
+      {
+        "title" : "Lumia 650 white in good condition"
+      },
+      {
+        "title" : "3.64 GB memory iPad mini"
+      },
+      {
+        "title" : "Android charger with working condition"
+      },
+      {
+        "title" : "Htc desire in New condition for selling "
+      },
+      {
+        "title" : "BMW sports series model available for selling"
+      },
+      {
+        "title" : "Rarely used Desire for selling with all documents ready "
+      },
+      {
+        "title" : "Scratch free Swift ready for sellling"
+      },
+      {
+        "title" : "2 year old skoda for selling"
+      }
+    ],
+      "negativeData":[
+
+        {
+          "title" : "movie was a must watch"
+        },
+        {
+          "title" : "my name is mayank kapoor"
+        },
+        {
+          "title" : "1234567890123456045 5"
+        },
+        {
+          "title" : "olxautomatin@@@@@@@gmail.com"
+        },
+        {
+          "title" : "http://qa10.olx.in"
+        },
+        {
+          "title" : "sam"
+        },
+        {
+          "title" : "Noka in good working condition"
+        },
+        {
+          "title" : "Samsung LED tv"
+        },
+        {
+          "title" : "Good condition but battery failure"
+        },
+        {
+          "title" : "Nokia Samsung Audi Lenovo BMW "
+        },
+        {
+          "title" : "Sams!!@@))((*** #####$$$$$%%%%^^&&"
+        },
+        {
+          "title" : "Samsung LED tv shdgsd sfdjdshjb fsdhjgd ds jbdhjbds bsd d jvbbfvhbvb  bdb dbhjbdhjbjdsyufsd "
+        },
+        {
+          "title" : "<!DOCTYPE html><html><body><p>Click the buttons to sort the array alphabetically or numerically.</p></body></html>"
+        },
+        {
+          "title" : ""
+        }
+
+      ]
+
+    }
+
+}
